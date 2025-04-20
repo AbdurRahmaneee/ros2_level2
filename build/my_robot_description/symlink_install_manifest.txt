@@ -1,7 +1,11 @@
+/home/abdur-rahman/ros2_ws2/install/my_robot_description/share/my_robot_description//urdf/arm.xacro
+/home/abdur-rahman/ros2_ws2/install/my_robot_description/share/my_robot_description//urdf/arm_gazebo.xacro
+/home/abdur-rahman/ros2_ws2/install/my_robot_description/share/my_robot_description//urdf/camera.xacro
 /home/abdur-rahman/ros2_ws2/install/my_robot_description/share/my_robot_description//urdf/common_properties.xacro
 /home/abdur-rahman/ros2_ws2/install/my_robot_description/share/my_robot_description//urdf/mobile_base.xacro
 /home/abdur-rahman/ros2_ws2/install/my_robot_description/share/my_robot_description//urdf/mobile_base_gazebo.xacro
 /home/abdur-rahman/ros2_ws2/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro
+/home/abdur-rahman/ros2_ws2/install/my_robot_description/share/my_robot_description//urdf/standalone_arm.urdf.xacro
 /home/abdur-rahman/ros2_ws2/install/my_robot_description/share/my_robot_description//launch/display.launch.py
 /home/abdur-rahman/ros2_ws2/install/my_robot_description/share/my_robot_description//launch/display.launch.xml
 /home/abdur-rahman/ros2_ws2/install/my_robot_description/share/my_robot_description//rviz/urdf_config.rviz
